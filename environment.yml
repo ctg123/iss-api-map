@@ -1,0 +1,11 @@
+name: binder-demo
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - scipy
+  - numpy
+  - jupyterlab
+  - seaborn
+  - plotly
+prefix: /home/vagrant/miniconda3/envs/binder-demo
